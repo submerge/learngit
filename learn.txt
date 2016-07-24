@@ -1,2 +1,7 @@
 learn git
 \\cp01-rdqa-dev316.cp01\leike
+
+
+npm link
+/usr/local/bin/hello -> /usr/local/lib/node_modules/hello/hello
+/usr/local/lib/node_modules/hello -> /Users/leike/code/cammondte
